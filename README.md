@@ -1,7 +1,9 @@
-# RC_leaderboard
 
-Rocket.Chat Leaderboard for GSoC aspirants. Build using Django Framework in Python3. 
-Register yourself and see your position on leaderboard based on the Commits, Issues and PRs, submitted by you on any repo of Rocket.Chat.
+# Rocket.Chat GSoC Contributions Leaderboard
+
+![Rocket.Chat GSoC Contributions Leaderboard screenshot](https://github.com/Sing-Li/bbug/blob/master/images/leaderboard.png)
+
+See your position on leaderboard based on the Commits, Issues and PRs, submitted by you across the repositories of Rocket.Chat (or other GSoC organization).
 
 Happy Coding.
 
